@@ -3,10 +3,13 @@ import React from 'react';
 const Table = () => {
     return (
        
-     <thead>
+    <thead>
+    <th></th>
+     
         <th>Name</th>
         <th>Time</th>
         <th>Calories</th>
+        <th></th>
      </thead>
     
     );
